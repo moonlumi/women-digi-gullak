@@ -1,0 +1,38 @@
+div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width:100%;
+}
+.one
+{
+    background-color:limegreen;    
+    float: center;  
+}
+.two
+{
+    background-color:orange;
+    float: center;
+}
+.three
+{
+    background-color: hotpink;
+    float: center;
+}
+.four
+{
+    background-color: aqua;
+    float: center;
+     
+}
+.five
+{
+    background-color: yellow;
+    float: center;
+}
